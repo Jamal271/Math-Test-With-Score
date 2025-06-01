@@ -1,0 +1,14 @@
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\bin\Debug\net9.0\Syntaxia.MathTesterWithScore.exe
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\bin\Debug\net9.0\Syntaxia.MathTesterWithScore.deps.json
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\bin\Debug\net9.0\Syntaxia.MathTesterWithScore.runtimeconfig.json
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\bin\Debug\net9.0\Syntaxia.MathTesterWithScore.dll
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\bin\Debug\net9.0\Syntaxia.MathTesterWithScore.pdb
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.AssemblyInfoInputs.cache
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.AssemblyInfo.cs
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.csproj.CoreCompileInputs.cache
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.dll
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\refint\Syntaxia.MathTesterWithScore.dll
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.pdb
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\Syntaxia.MathTesterWithScore.genruntimeconfig.cache
+D:\C# Fundamentals\Syntaxia.MathTesterWithScore\Syntaxia.MathTesterWithScore\obj\Debug\net9.0\ref\Syntaxia.MathTesterWithScore.dll
